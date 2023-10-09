@@ -3,6 +3,7 @@ resolver = "2"
 members = [
     "p1",
     "p2",
+    "p3",
 ]
 
 [workspace.package]
